@@ -18,7 +18,7 @@
 }
 
 hr{
-    max-width: 940px;
+    max-width: 1000px;
     width: 100%;
     stroke-width: 1px;
     stroke: #828282;
@@ -360,5 +360,13 @@ hr{
 
     .contacts__title{
         margin-bottom: 27px;
+    }
+
+    /* .contacts__logo{
+        max-width: 315px;
+    } */
+
+    .logos{
+        margin-right: 51px  ;
     }
 }
