@@ -339,9 +339,26 @@ hr{
     .head__title{
         flex-direction: column;
         align-items: flex-start;
+        margin-bottom: 37px;
     }
 
     .head__name{
         margin-bottom: 23px;
+    }
+
+    .skills__title{
+        margin-bottom: 50px;
+    }
+
+    .about__title{
+        margin-bottom: 29.94px;
+    }
+
+    .portfolio__title{
+        margin-bottom: 65px;
+    }
+
+    .contacts__title{
+        margin-bottom: 27px;
     }
 }
