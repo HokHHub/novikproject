@@ -304,11 +304,11 @@ hr{
 
 .contacts__logo{
     display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 342px;
 }
 
-.logos{
-    margin-right: 61.35px;
-}
 
 .last-logo{
     margin: 0;
@@ -366,7 +366,4 @@ hr{
         max-width: 315px;
     } */
 
-    .logos{
-        margin-right: 51px  ;
-    }
 }
